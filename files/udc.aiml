@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hi there! How can I assist you today?</template>
+    </category>
+    <category>
+        <pattern>WHAT IS YOUR NAME?</pattern>
+        <template>I am your friendly chatbot!</template>
+    </category>
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>I'm just a bunch of code, but I'm here to help!</template>
+    </category>
+    <category>
+        <pattern>HOW ARE YOU?</pattern>
+        <template>I'm just a bunch of code, but I'm here to help!</template>
+    </category>
+    <category>
+        <pattern>BYE</pattern>
+        <template>Goodbye! Have a great day!</template>
+    </category>
+    <category>
+        <pattern>WHAT CAN YOU DO?</pattern>
+        <template>I can help you with information, answer your questions, or just chat!</template>
+    </category>
+    <category>
+        <pattern>TELL ME A JOKE</pattern>
+        <template>Why did the scarecrow win an award? Because he was outstanding in his field!</template>
+    </category>
+    <category>
+        <pattern>WHAT IS THE WEATHER LIKE?</pattern>
+        <template>I can't check the weather, but you can look it up online!</template>
+    </category>
+    <category>
+        <pattern>HELP</pattern>
+        <template>I'm here to help! What do you need assistance with?</template>
+    </category>
+    <category>
+        <pattern>WHAT IS YOUR FAVORITE COLOR?</pattern>
+        <template>I like all colors equally, just like I like all conversations!</template>
+    </category>
+    <category>
+        <pattern>DO YOU HAVE FEELINGS?</pattern>
+        <template>No, I don't have feelings, but I'm programmed to assist you!</template>
+    </category>
+    <category>
+        <pattern>WHAT IS YOUR PURPOSE?</pattern>
+        <template>My purpose is to assist and provide information to you!</template>
+    </category>
+    <category>
+        <pattern>WHERE ARE YOU FROM?</pattern>
+        <template>I exist in the digital world, created by programmers like you!</template>
+    </category>
+    <category>
+        <pattern>MAKE SMALL TALK</pattern>
+        <template>Small talk is great! How's your day going?</template>
+    </category>
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>You're welcome! If you have more questions, feel free to ask!</template>
+    </category>
+</aiml>
